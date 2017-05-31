@@ -1,5 +1,5 @@
-#Lo escencial
-##Comandos básicos
+# Lo escencial
+## Comandos básicos
 
 * `$ git init`
 Este comando marca el inicio de nuestro proyecto, aquí le decimos a Git que empiece a monitorear todos nuestros cambios.
