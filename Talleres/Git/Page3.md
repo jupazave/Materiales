@@ -1,8 +1,8 @@
-#Instalación y configuración
+# Instalación y configuración
 
-##Instalación
+## Instalación
 
-###Linux
+### Linux
 * **Debian/Ubuntu**
 
 `$ apt-get install git`
@@ -17,7 +17,7 @@
 
 `$ pacman -S git`
 
-###MacOs / OsX
+### Mac Os / OsX
 
 * **Instalación normal**
 
