@@ -54,4 +54,4 @@ $ git reset --merge ORIG_HEAD
 
 ***
 
-## [Anterior](Page5.md)
+## [Anterior](Page5.md) -- [Siguiente](Page7.md)
